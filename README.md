@@ -12,14 +12,14 @@ Table of Contents
 
 Features
 
-    User Registration and Login: Secure and seamless user authentication provided by Clerk.
-    Real-Time Messaging: Instant messaging between users with real-time updates.
-    Video Calling: One-on-one video calls with ZEGOCLOUD's prebuilt UI Kit.
-    Group Video Chat: Engage in group video calls with multiple participants.
-    Dark and Light Themes: Users can switch between dark and light modes for a personalized experience.
-    Profile Management: Users can manage their profile, including updating their avatar and status.
-    Webhooks Integration: Real-time updates for messages, calls, and user presence using webhooks.
-    Responsive Design: Optimized for both web and mobile devices to ensure a seamless experience across platforms.
+    -User Registration and Login: Secure and seamless user authentication provided by Clerk.
+    -Real-Time Messaging: Instant messaging between users with real-time updates.
+    -Video Calling: One-on-one video calls with ZEGOCLOUD's prebuilt UI Kit.
+    -Group Video Chat: Engage in group video calls with multiple participants.
+    -Dark and Light Themes: Users can switch between dark and light modes for a personalized experience.
+    -Profile Management: Users can manage their profile, including updating their avatar and status.
+    -Webhooks Integration: Real-time updates for messages, calls, and user presence using webhooks.
+    -Responsive Design: Optimized for both web and mobile devices to ensure a seamless experience across platforms.
 
 Technologies Used
 
