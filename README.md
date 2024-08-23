@@ -23,15 +23,15 @@ Features
 
 Technologies Used
 
-    Next.js: Used for server-side rendering and building the frontend.
-    React.js: Utilized for building the user interface.
-    Clerk: Provides authentication and user management.
-    Convex: Serverless backend logic and data management.
-    ZEGOCLOUD: Used for video calling and group video chat.
-    Radix UI: Provides accessible and customizable UI components.
-    Tailwind CSS: Utility-first CSS framework for rapid UI development.
-    DaisyUI: Component library built on top of Tailwind CSS.
-    Webhooks: Used for real-time notifications and updates.
+    -Next.js: Used for server-side rendering and building the frontend.
+    -React.js: Utilized for building the user interface.
+    -Clerk: Provides authentication and user management.
+    -Convex: Serverless backend logic and data management.
+    -ZEGOCLOUD: Used for video calling and group video chat.
+    -Radix UI: Provides accessible and customizable UI components.
+    -Tailwind CSS: Utility-first CSS framework for rapid UI development.
+    -DaisyUI: Component library built on top of Tailwind CSS.
+    -Webhooks: Used for real-time notifications and updates.
 
 Installation
 Prerequisites
