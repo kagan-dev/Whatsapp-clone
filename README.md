@@ -105,7 +105,7 @@ Group Videocall =>
 
 ![videocall](https://github.com/user-attachments/assets/6b1fb577-5dd8-4a32-85cc-8ffe8604e35a)
 
-Projile Page With Clerk =>
+Profile Page With Clerk =>
 
 ![profilewithclerk](https://github.com/user-attachments/assets/f1d196f2-c596-4e14-8664-6dc670186bb6)
 
