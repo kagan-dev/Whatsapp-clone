@@ -41,13 +41,9 @@ Prerequisites
 
 Convex Installation
 
-  bash =>
-
     npx run convex
 
 Frontend Installation
-
-  bash =>
 
     npm install
     npm run dev // npm start
@@ -55,8 +51,6 @@ Frontend Installation
 Environment Variables
 
 Create a .env.local file in the root directory and add the following variables:
-
-plaintext
 
 CONVEX_DEPLOYMENT=dev:friendly-lion-123 # team: your-team, project: your-project
 NEXT_PUBLIC_CONVEX_URL=https://friendly-lion-123.convex.cloud
@@ -69,15 +63,11 @@ ZEGO_SERVER_SECRET=your_zego_server_secret
 Running the Application
 Start the Development Server
 
-  bash =>
-
     npm run dev
 
 Accessing the Application
 
 After starting the server, open your web browser and go to:
-
-  plaintext=>
 
     http://localhost:3000
 
